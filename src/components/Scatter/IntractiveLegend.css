@@ -1,0 +1,25 @@
+body {
+    background-color: blueviolet;
+}
+.tick line {
+    stroke: #5886a5;
+}
+
+text {
+    fill: #f5f3f9;
+}
+
+.axis-label {
+    font-size: 1.5em;
+}
+
+.menus-container {
+    display: flex;
+    justify-content: center;
+}
+.dropdown-label {
+    margin-left: 50px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
